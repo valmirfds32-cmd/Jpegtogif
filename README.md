@@ -1,2 +1,2 @@
-programa que serve para adicionar fotos jpeg 
-para gif animado 
+programa que serve para adicionar fotos
+para se tornar gif animado 
